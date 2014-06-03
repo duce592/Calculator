@@ -1,15 +1,7 @@
-/*!
- * Designed and built based on Twitter Bootstrap.
- *                                              /
-
-/********** MAIN CONFIGURATION **********/
-
-
 /* GOOGLE FONTS*/
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 
-/* BASIC CONFIGURATION */
 body{
     background-color:#fff;
     font-family:'Open Sans',sans-serif;
@@ -18,7 +10,7 @@ body{
 }
 
 #mainContainer {
-    margin-top:40px;
+    margin-top:200px;
 } 
 
 #calculatorWrapper{ 
@@ -43,7 +35,6 @@ body{
     font-size:56px;
 }
 
-
 #calculatorPad .row-fluid .span4, #calculatorPad .row-fluid .span8 {
     background: #fff;
     margin-top:2px;
@@ -67,6 +58,7 @@ body{
     padding-top: 10px;
 
 }
+
 #calculatorPad2 .row-fluid .span12#additionButton, #calculatorPad2 .row-fluid .span12#equalsButton {
     background: #fff;
     margin-top:2px;
@@ -76,9 +68,4 @@ body{
     padding-bottom: 25px;
 
 }
-
-
-
-
-
 
